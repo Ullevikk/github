@@ -7,4 +7,6 @@ int main() {
   cout << "Anna Butujeva";
   cout << "berwy"; 
   cout << "maksims fedosejevs";
+  cout << "Diana Tureiko";
 }
+
